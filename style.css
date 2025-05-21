@@ -1,1 +1,21 @@
+body{
+    background: linear-gradient(180deg, #CAD1FF 0%, #4CA3D9 100%);
+}
+.titulo{
+    color: #FEEAEA;
+    font-family: Merriweather;
+    font-size: 128px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 3.84px;
+}
 
+.subtitulo{
+    color: #FEEAEA;
+    font-family: Merriweather;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+}
