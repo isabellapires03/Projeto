@@ -1,3 +1,4 @@
+
 body{
     background: #CAD1FF;
     background: linear-gradient(90deg, rgba(202, 209, 255, 1) 50%, rgba(76, 163, 217, 1) 100%);
@@ -5,11 +6,26 @@ body{
 
 .bloco {
   display: flex;
-  align-items:center;
+  align-items: center;
   gap: 20px; 
-  margin-bottom: -154px;
+  margin-bottom: 0px;
   justify-content: center; 
-  box-sizing:content-box;
+}
+
+.titulo{
+    color: #FEEAEA;
+    font-family: Merriweather;
+    font-size: 128px;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: 3.84px;
+}
+.subtitulo{
+    color: #FEEAEA;
+    font-family: Merriweather;
+    font-size: 24px;
+    font-style: italic;
+    line-height: normal;
 }
 
 .layout{
@@ -19,22 +35,4 @@ height: 720px;
 padding: 0px 255px;
 justify-content: center;
 align-items: center;
-}
-
-.titulo{
-    color: #FEEAEA;
-    font-family: Merriweather;
-    font-size: 128px;
-    font-style: italic;
-    font-weight: 300;
-    line-height: normal;
-    letter-spacing: 3.84px;
-}
-.subtitulo{
-    color: #FEEAEA;
-    font-family: Merriweather;
-    font-size: 24px;
-    font-style: italic;
-    font-weight: 300;
-    line-height: normal;
 }
