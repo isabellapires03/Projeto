@@ -48,3 +48,8 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+.imagem{
+  width: max;
+  height: auto;
+}
