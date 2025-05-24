@@ -5,10 +5,20 @@ body{
 
 .bloco {
   display: flex;
-  align-items: center;
+  align-items:center;
   gap: 20px; 
-  margin-bottom: 40px;
-  justify-content: flex-start; 
+  margin-bottom: -154px;
+  justify-content: center; 
+  box-sizing:content-box;
+}
+
+.layout{
+display: flex;
+width: 1280px;
+height: 720px;
+padding: 0px 255px;
+justify-content: center;
+align-items: center;
 }
 
 .titulo{
