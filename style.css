@@ -1,55 +1,75 @@
 body{
-    background: #CAD1FF;
-    background: linear-gradient(90deg, rgba(202, 209, 255, 1) 50%, rgba(76, 163, 217, 1) 100%);
+    background: #FEFEFB;
     display: flex;
-    width: 1280px;
-    height: 720px;
-    padding: 277px 255px 247.92px 255px;
-    justify-content: center;
+    width: 1440px;
+    height: 1024px;
+    padding-top: 47px;
+    flex-direction: column;
     align-items: center;
+    gap: 68px;
 }
 
-.bloco {
-  display:block;
-  align-items: center;
-  margin-bottom: 40px;
+.header {
+    display: flex;
+    width: 1440px;
+    padding: 10px 3px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
 }
 
-.titulo{
-    width: 770px;
-    height: 124px;
+.produto{
+    display: flex;
+    width: 904px;
+    height: 450px;
+    align-items: flex-start;
     flex-shrink: 0;
-    color: #FEEAEA;
-    text-align: center;
-    font-family: Merriweather;
-    font-size: 128px;
-    font-style: italic;
-    font-weight: 300;
-    line-height: 160px;
-    letter-spacing: 3.84px;
 }
-.subtitulo{
-    width: 376px;
-    height: 41px;
-    flex-shrink: 0;
-    color: #FEEAEA;
-    font-family: Merriweather;
-    font-size: 24px;
-    font-style: italic;
-    font-weight: 300;
-    line-height: normal;
+
+.descricao{
+display: flex;
+padding: 0px 25px;
+flex-direction: column;
+align-items: flex-start;
 }
 
 .layout {
   display: flex;
-  width: 1280px;
-  height: 100px;
-  padding: 0px 255px;
-  justify-content: center;
+  width: 385.027px;
+  height: 407.392px;
+  flex-direction: column;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .imagem{
-  width: max;
-  height: auto;
+    width: 495px;
+    height: 308px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
