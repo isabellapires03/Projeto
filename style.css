@@ -8,17 +8,17 @@ body{
 }
 
 .produto{
-    display: flex;
-    align-items: flex-start;
-    flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
 }
 
 .descricao{
-    display: flex;
-    padding: 0px 25px;
-    flex-direction: column;
-    align-items: flex-start;
-    }
+  display: flex;
+  padding: 0px 25px;
+  flex-direction: column;
+  align-items: flex-start;
+ }
 
 .layout {
   display: flex;
@@ -33,19 +33,18 @@ body{
 
 ul {
   list-style-type: none;
-    display: flex;
-    padding: 10px 3px;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 10px;
+  display: flex;
+  padding: 10px 3px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
   position: sticky;
   top: 0;
 }
 
-
 li a {
   display: block;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
