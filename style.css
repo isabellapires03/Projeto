@@ -59,37 +59,37 @@ li a:hover {
 }
 
 .album{
-color: #000;
-font-family: "Montserrat Alternates";
-font-size: 48px;
-font-style: italic;
-font-weight: 700;
-line-height: normal;
-letter-spacing: -3.84px;
-}
+  color: #000;
+  font-family: "Montserrat Alternates";
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -3.84px;
+  }
 
 .artista{
-color: #000;
-font-family: "Montserrat Alternates";
-font-size: 24px;
-font-style: italic;
-font-weight: 600;
-line-height: normal;
-letter-spacing: -1.92px;
-text-decoration-line: underline;
-text-decoration-style: solid;
-text-decoration-skip-ink: auto;
-text-decoration-thickness: auto;
-text-underline-offset: auto;
-text-underline-position: from-font;
+  color: #000;
+  font-family: "Montserrat Alternates";
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -1.92px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
 }
 
 .tracklist{
-color: #000;
-font-family: "Montserrat Alternates";
-font-size: 14px;
-font-style: italic;
-font-weight: 600;
-line-height: normal;
-letter-spacing: -1.12px;
+  color: #000;
+  font-family: "Montserrat Alternates";
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -1.12px;
 }
