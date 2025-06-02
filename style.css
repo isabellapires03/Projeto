@@ -33,7 +33,9 @@ body{
   flex-shrink: 0;
 }
 
-
+.imagem{
+    width: 495px;
+}
 
 ul {
   list-style-type: none;
@@ -88,8 +90,6 @@ text-decoration-thickness: auto;
 text-underline-offset: auto;
 text-underline-position: from-font;
 }
-
-
 
 .tracklist{
 color: #000;
