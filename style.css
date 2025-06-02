@@ -33,10 +33,7 @@ body{
   flex-shrink: 0;
 }
 
-.imagem{
-    width: 495px;
-    height: 308px;
-}
+
 
 ul {
   list-style-type: none;
