@@ -48,8 +48,14 @@ li a {
   display: block;
   color: rgb(0, 0, 0);
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 50px;
   text-decoration: none;
+  font-family: "Montserrat Alternates";
+  font-size: 20px;
+   font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -1.12px;
 }
 
 li a:hover {
@@ -59,7 +65,12 @@ li a:hover {
 li{
   color: #000;
   font-family: "Montserrat Alternates";
-  font-size: 16px;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -1.12px;
+ 
 }
 
 .album{
@@ -93,7 +104,7 @@ li{
 .tracklist{
   color: #000;
   font-family: "Montserrat Alternates";
-  font-size: 14px;
+  font-size: 19px;
   font-style: italic;
   font-weight: 600;
   line-height: normal;
