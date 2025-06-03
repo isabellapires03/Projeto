@@ -32,6 +32,8 @@ body{
 }
 
 ul {
+  background-color: #FEFEFB;
+  background-size: cover;
   list-style-type: none;
   display: flex;
   padding: 10px 3px;
