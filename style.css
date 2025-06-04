@@ -7,7 +7,6 @@ body{
     gap: 68px;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) 
 main{
   display: flex;
   justify-content: center;
@@ -15,7 +14,6 @@ main{
   flex-direction: column;
 }
 
- @media (min-width: 769px) and (max-width: 1024px) 
 .produto{
   display: inline-flex;
   align-items: center;
@@ -40,7 +38,6 @@ main{
     width: 495px;
 }
 
-@media (max-width: 768px) and (max-width: 1024px) 
 ul{
   background-color: #FEFEFB;
   background-size: cover;
