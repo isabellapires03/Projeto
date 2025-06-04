@@ -13,6 +13,7 @@ main{
     align-items: center;
 }
 
+ @media (min-width: 769px) and (max-width: 1024px) 
 .produto{
   display: inline-flex;
   align-items: center;
@@ -37,6 +38,7 @@ main{
     width: 495px;
 }
 
+@media (max-width: 768px)
 ul {
   background-color: #FEFEFB;
   background-size: cover;
