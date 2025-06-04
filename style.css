@@ -24,6 +24,8 @@ main{
   display: inline-flex;
   align-items: center;
   flex-shrink: 0;
+  flex-direction: column;
+
 }
 
 .descricao{
@@ -45,7 +47,7 @@ main{
 }
 
 .imagemA{
-    width: 200px;
+    width: 300px;
 }
 
 ul{
