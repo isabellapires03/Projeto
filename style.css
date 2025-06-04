@@ -20,6 +20,12 @@ main{
   flex-shrink: 0;
 }
 
+.produtoA{
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
 .descricao{
   display: flex;
   padding: 0px 25px;
@@ -36,6 +42,10 @@ main{
 
 .imagem{
     width: 495px;
+}
+
+.imagemA{
+    width: 200px;
 }
 
 ul{
