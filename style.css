@@ -40,8 +40,8 @@ main{
     width: 495px;
 }
 
-@media (max-width: 768px)
-ul {
+@media (max-width: 768px) and (max-width: 1024px) 
+ul{
   background-color: #FEFEFB;
   background-size: cover;
   list-style-type: none;
