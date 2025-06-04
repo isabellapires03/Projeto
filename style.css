@@ -7,9 +7,15 @@ body{
     gap: 68px;
 }
 
+main{
+   display: flex;
+    justify-content: center; /* Centers children horizontally */
+    align-items: center;
+}
+
 .produto{
-  display: flex;
-  align-items: flex-start;
+  display: inline-flex;
+  align-items: center;
   flex-shrink: 0;
 }
 
@@ -38,7 +44,7 @@ ul {
   display: flex;
   padding: 10px 3px;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   gap: 10px;
   position: sticky;
   top: 0;
@@ -73,7 +79,7 @@ li{
  
 }
 
-.album{
+h1{
   color: #000;
   font-family: "Montserrat Alternates";
   font-size: 48px;
@@ -84,7 +90,7 @@ li{
   margin: 0px;
   }
 
-.artista{
+h2{
   color: #000;
   font-family: "Montserrat Alternates";
   font-size: 24px;
@@ -101,7 +107,7 @@ li{
   margin: 0px;
 }
 
-.tracklist{
+h3{
   color: #000;
   font-family: "Montserrat Alternates";
   font-size: 19px;
