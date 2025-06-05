@@ -26,6 +26,9 @@ main{
   display: inline-flex;
   align-items: center;
   flex-shrink: 0;
+  background: whitesmoke;
+  margin: 40px;
+}
 }
 
 .produtoA{
@@ -72,7 +75,9 @@ main{
 
 .imagemB{
   width: 900px;
+  margin: 50px;
 }
+
 p{
   font-family:"Montserrat Alternates";
   font-size: 20px;
