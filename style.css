@@ -165,3 +165,20 @@ h3{
   letter-spacing: -1.12px;
   margin-top: 0px;
 }
+
+.simple-button {
+  font-family: "Montserrat Alternates";
+  font-weight: 600;
+  letter-spacing: -1.12px;
+  background-color: whitesmoke;
+  color: black;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.simple-button:hover {
+  background-color: rgb(200, 200, 182);
+}
