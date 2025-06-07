@@ -166,7 +166,7 @@ h3{
   margin-top: 0px;
 }
 
-.simple-button {
+.botao {
   font-family: "Montserrat Alternates";
   font-weight: 600;
   letter-spacing: -1.12px;
@@ -179,6 +179,6 @@ h3{
   transition: background-color 0.3s ease;
 }
 
-.simple-button:hover {
+.botao:hover {
   background-color: rgb(200, 200, 182);
 }
