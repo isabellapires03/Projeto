@@ -63,7 +63,7 @@
                 <li>Nothing New (feat. Phoebe Bridgers)</li>
                 <li>Babe</li>
                 <li>Message In A Bottle</li>
-                <li>I Bet You Think About Me (feat. Chris Stapleton)</li>
+                <li>I Bet You Think About Me</li>
                 <li>Forever Winter</li>
                 <li>Run (feat. Ed Sheeran)</li>
                 <li>The Very First Night</li>
