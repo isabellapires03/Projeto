@@ -64,7 +64,9 @@ main{
 }
 
 .imagem{
-    width: 495px;
+    width: 300px;
+    border-radius: 5px;
+    margin: 20px;
 }
 
 .imagemA{
