@@ -2,6 +2,7 @@ body{
     background: #FEFEFB;
     display: flex;
     padding-top: 47px;
+    padding-bottom: 47px;
     flex-direction: column;
     align-items: center;
     gap: 68px;
