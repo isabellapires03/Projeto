@@ -85,7 +85,10 @@ p{
   font-family:"Montserrat Alternates";
   font-size: 20px;
   font-weight: 600;
-  
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+
 }
 
 ul{
@@ -149,12 +152,9 @@ h2{
   font-weight: 600;
   line-height: normal;
   letter-spacing: -1.92px;
-  text-decoration-line: underline;
   text-decoration-style: solid;
   text-decoration-skip-ink: auto;
   text-decoration-thickness: auto;
-  text-underline-offset: auto;
-  text-underline-position: from-font;
   margin: 0px;
 }
 
